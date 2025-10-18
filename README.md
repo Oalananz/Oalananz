@@ -60,4 +60,10 @@ Welcome to my GitHub! I’m Osamah, a **Software Development student at 42** wit
 
 ---
 
+## 📄 My CV
+You can view or download my latest CV here:  
+[![CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge)](https://github.com/Oalananz/Oalananz/blob/main/Osamah_Alananzeh_CV.pdf)
+
+---
+
 ✨ *“Continuous learning is the minimum requirement for success in any field.”*
