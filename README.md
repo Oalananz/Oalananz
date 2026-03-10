@@ -57,6 +57,7 @@ Welcome to my GitHub! I’m Osamah, a **Software Development student at 42** wit
 - GitHub: [Oalananz](https://github.com/Oalananz)  
 - LinkedIn: [Osamah Alananzeh](https://www.linkedin.com/in/osamah-alananzeh-992078221/)  
 - Email: [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
+- Portfolio: [Oalananz.me](https://www.oalananz.me/)
 
 ---
 
