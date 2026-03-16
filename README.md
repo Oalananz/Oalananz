@@ -27,7 +27,7 @@ I enjoy working close to the system level — building **Unix tools, concurrent 
 • Competitive programming
 
 ⚡ Fun fact
-I love creating tools that automate repetitive workflows and save developers hours of work.
+I love creating small tools that save developers hours of repetitive work.
 
 ---
 
@@ -47,33 +47,18 @@ Common Core
 └── C++ Modules 🔄
 ```
 
-Focus areas:
+Focused on mastering:
 
 ✔ Unix internals
-✔ Memory management
 ✔ Concurrency
-✔ Systems architecture
-
----
-
-# 🧠 42 School Projects
-
-![libft](https://img.shields.io/badge/42-libft-success)
-![ft\_printf](https://img.shields.io/badge/42-ft_printf-success)
-![get\_next\_line](https://img.shields.io/badge/42-get_next_line-success)
-![born2beroot](https://img.shields.io/badge/42-born2beroot-success)
-![push\_swap](https://img.shields.io/badge/42-push_swap-success)
-![pipex](https://img.shields.io/badge/42-pipex-success)
-![philosophers](https://img.shields.io/badge/42-philosophers-success)
-![minishell](https://img.shields.io/badge/42-minishell-success)
-![cub3d](https://img.shields.io/badge/42-cub3d-success)
-![cpp\_modules](https://img.shields.io/badge/42-cpp_modules-in_progress-blue)
+✔ Memory management
+✔ System architecture
 
 ---
 
 # 🧠 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,assembly"/>
@@ -101,7 +86,7 @@ Focus areas:
 ✔ Memory Management
 ✔ Unix Processes & Signals
 ✔ Mutex Synchronization
-✔ Deadlock Prevention
+✔ Deadlock & Starvation Prevention
 ✔ Networking & Sockets
 
 ---
@@ -110,32 +95,37 @@ Focus areas:
 
 ### 🧠 Conversational Firewall Management
 
-AI-powered firewall chatbot for managing firewall rules via natural language.
+AI-powered firewall management chatbot.
 
-**Tech:** FastAPI • React • vLLM • OPNsense API
+Tech stack:
+
+FastAPI • React • vLLM • OPNsense API
 
 Features:
 
 • Natural language firewall configuration
 • Secure API communication
 • Automated firewall rule creation
+• Reduced human configuration errors
 
 ---
 
 ### 🐚 Minishell
 
-Unix shell implementation written in **C** supporting:
+Unix shell written in **C** supporting:
 
 • Pipes
 • Redirections
 • Environment variables
 • Process management
 
+Focus on **replicating Bash behavior**.
+
 ---
 
 ### 🍝 Dining Philosophers
 
-Multithreaded concurrency simulation using **POSIX threads**.
+Multithreaded simulation using **POSIX threads**.
 
 Implemented:
 
@@ -148,26 +138,16 @@ Implemented:
 
 ### 🎮 Cub3D
 
-Raycasting **3D engine** built using **MiniLibX**.
+Raycasting **3D engine** using MiniLibX.
 
 Features:
 
 • Texture rendering
 • Collision detection
-• Real-time movement
+• Real-time player movement
 • Map parsing
 
----
-
-# 🚀 Main Projects
-
-| Project             | Description                                                 | Tech            |
-| ------------------- | ----------------------------------------------------------- | --------------- |
-| Minishell           | Unix shell with pipes, redirections, and process management | C               |
-| Dining Philosophers | Multithreaded concurrency simulation                        | C               |
-| Cub3D               | Raycasting 3D engine                                        | C / MiniLibX    |
-| Firewall Chatbot    | Natural language firewall management                        | FastAPI / React |
-| Student Marks       | Java OOP application with file handling                     | Java            |
+Inspired by **Wolfenstein 3D**.
 
 ---
 
@@ -216,7 +196,7 @@ Features:
 # 🏆 GitHub Trophy Wall
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -249,18 +229,6 @@ Features:
 
 ---
 
-# 🌐 Portfolio
-
-<p align="center">
-
-<a href="https://www.oalananz.me">
-<img src="https://image.thum.io/get/width/900/https://www.oalananz.me"/>
-</a>
-
-</p>
-
----
-
 # 🏆 Achievements
 
 🥇 **Shadow Code Programming Competition**
@@ -284,7 +252,7 @@ Albalqa Applied University
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/osamah-alanananzeh-992078221/">
+<a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -301,11 +269,4 @@ Albalqa Applied University
 
 ---
 
-# 💡 Developer Philosophy
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> — Harold Abelson
-
----
-
-⭐ Continuous learning is the minimum requirement for success in any field.
+⭐ *Continuous learning is the minimum requirement for success in any field.*
