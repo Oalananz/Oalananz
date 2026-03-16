@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Oalananz/Oalananz/blob/main/Osamah-Alananzeh.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-1E90FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -167,12 +173,6 @@ Inspired by **Wolfenstein 3D**.
 - Email: [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)  
 - Website: [oalananz.me](https://www.oalananz.me)  
 - LinkedIn: <a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/" target="_blank">osamah-alananzeh</a>
-
----
-
-## CV
-
-[View my CV](https://github.com/Oalananz/Oalananz/blob/main/Osamah-Alananzeh.pdf)
 
 ---
 
