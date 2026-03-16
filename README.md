@@ -146,10 +146,6 @@ Inspired by **Wolfenstein 3D**.
   />
 </p>
 
-> If the snake image doesn’t render:
-> - confirm the workflow pushes to the `output` branch
-> - or change `output/` to `main/` depending on your workflow output
-
 ---
 
 ## Achievements
