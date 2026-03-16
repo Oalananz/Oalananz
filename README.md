@@ -12,49 +12,82 @@
 🎓 **Computer Engineering Graduate — Albalqa Applied University**
 💻 **Software Development Student — 42 Amman**
 
-I’m passionate about **systems programming, backend development, and problem solving**.
-
-My experience comes mainly from the **42 Core Curriculum**, where I built projects focused on:
-
-* Unix systems
-* Concurrency
-* Graphics engines
-* Software architecture
+I enjoy working close to the system level — building **Unix tools, concurrent programs, backend systems, and automation tools**.
 
 🔭 Currently learning
 
-* ASP.NET Web API
-* System design
-* Advanced C#
+• ASP.NET Web API
+• Backend system design
+• Advanced C#
 
 🌱 Improving
 
-* Python automation
-* Distributed systems
-* Competitive programming
+• Python automation
+• Distributed systems
+• Competitive programming
 
 ⚡ Fun fact
-I love building small tools that automate repetitive tasks and save developers hours of work.
+I love creating tools that automate repetitive workflows and save developers hours of work.
+
+---
+
+# 🔥 42 Curriculum Progress
+
+```
+Common Core
+├── Libft ✅
+├── ft_printf ✅
+├── get_next_line ✅
+├── Born2beroot ✅
+├── push_swap ✅
+├── pipex ✅
+├── philosophers ✅
+├── minishell ✅
+├── cub3d ✅
+└── C++ Modules 🔄
+```
+
+Focus areas:
+
+✔ Unix internals
+✔ Memory management
+✔ Concurrency
+✔ Systems architecture
+
+---
+
+# 🧠 42 School Projects
+
+![libft](https://img.shields.io/badge/42-libft-success)
+![ft\_printf](https://img.shields.io/badge/42-ft_printf-success)
+![get\_next\_line](https://img.shields.io/badge/42-get_next_line-success)
+![born2beroot](https://img.shields.io/badge/42-born2beroot-success)
+![push\_swap](https://img.shields.io/badge/42-push_swap-success)
+![pipex](https://img.shields.io/badge/42-pipex-success)
+![philosophers](https://img.shields.io/badge/42-philosophers-success)
+![minishell](https://img.shields.io/badge/42-minishell-success)
+![cub3d](https://img.shields.io/badge/42-cub3d-success)
+![cpp\_modules](https://img.shields.io/badge/42-cpp_modules-in_progress-blue)
 
 ---
 
 # 🧠 Tech Stack
 
-## Programming Languages
+### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,assembly"/>
 </p>
 
-## Systems & Tools
+### Systems & Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake"/>
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql"/>
 </p>
 
@@ -64,72 +97,77 @@ I love building small tools that automate repetitive tasks and save developers h
 
 ✔ Data Structures & Algorithms
 ✔ Systems Programming
-✔ Concurrency & Multithreading
+✔ Multithreading & Concurrency
 ✔ Memory Management
 ✔ Unix Processes & Signals
-✔ Synchronization (Mutexes)
-✔ Deadlock & Starvation Prevention
+✔ Mutex Synchronization
+✔ Deadlock Prevention
 ✔ Networking & Sockets
 
 ---
 
 # 🧩 Featured Projects
 
-## 🧠 Conversational Firewall Management
+### 🧠 Conversational Firewall Management
+
+AI-powered firewall chatbot for managing firewall rules via natural language.
 
 **Tech:** FastAPI • React • vLLM • OPNsense API
 
-AI-powered chatbot for managing firewall rules via natural language.
-
 Features:
 
-* Natural language firewall configuration
-* Secure REST API communication
-* Automated firewall rule creation
-* Reduced configuration errors
+• Natural language firewall configuration
+• Secure API communication
+• Automated firewall rule creation
 
 ---
 
-## 🐚 Minishell
+### 🐚 Minishell
 
-Unix shell implementation written in **C**
+Unix shell implementation written in **C** supporting:
 
-Features:
-
-* Pipes (`|`)
-* Redirections (`>`, `<`)
-* Environment variables
-* Process management
-
-Focus on **Unix behavior replication and modular architecture**.
+• Pipes
+• Redirections
+• Environment variables
+• Process management
 
 ---
 
-## 🍝 Dining Philosophers
+### 🍝 Dining Philosophers
 
-Multithreaded simulation using **POSIX threads**.
+Multithreaded concurrency simulation using **POSIX threads**.
 
-Concepts implemented:
+Implemented:
 
-* Mutex synchronization
-* Deadlock prevention
-* Thread-safe logging
-* High precision timing
+• Mutex synchronization
+• Deadlock prevention
+• Thread-safe logging
+• Precise timing control
 
 ---
 
-## 🎮 Cub3D
+### 🎮 Cub3D
 
-3D rendering engine using **raycasting** and **MiniLibX**.
+Raycasting **3D engine** built using **MiniLibX**.
 
 Features:
 
-* Texture rendering
-* Real-time movement
-* Collision detection
-* Map parsing
+• Texture rendering
+• Collision detection
+• Real-time movement
+• Map parsing
 
-Inspired by **Wolfenstein 3D**.
+---
+
+# 🚀 Main Projects
+
+| Project             | Description                                                 | Tech            |
+| ------------------- | ----------------------------------------------------------- | --------------- |
+| Minishell           | Unix shell with pipes, redirections, and process management | C               |
+| Dining Philosophers | Multithreaded concurrency simulation                        | C               |
+| Cub3D               | Raycasting 3D engine                                        | C / MiniLibX    |
+| Firewall Chatbot    | Natural language firewall management                        | FastAPI / React |
+| Student Marks       | Java OOP application with file handling                     | Java            |
 
 ---
 
@@ -153,7 +191,7 @@ Inspired by **Wolfenstein 3D**.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=philosophers&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/Oalananz">
+<a href="https://github.com/Oalananz/Student_marks">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=Student_marks&theme=tokyonight"/>
 </a>
 
@@ -161,39 +199,12 @@ Inspired by **Wolfenstein 3D**.
 
 ---
 
-# 🧠 42 Curriculum Roadmap
-
-✔ Libft
-✔ ft_printf
-✔ get_next_line
-✔ Born2beroot
-✔ push_swap
-✔ pipex
-✔ philosophers
-✔ minishell
-✔ cub3d
-✔ C++ Modules
-
-🎯 Currently progressing through advanced **systems & backend projects**
-
----
-
-# 🏆 Achievements
-
-🥇 **Shadow Code Programming Competition**
-1st Place — IEEE Student Branch
-Albalqa Applied University
-
----
-
 # 🧠 Competitive Programming
 
 <p align="center">
-
 <a href="https://codeforces.com/profile/oalananz">
-<img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces"/>
+<img src="https://img.shields.io/badge/Codeforces-oalananz-orange?style=for-the-badge&logo=codeforces"/>
 </a>
-
 </p>
 
 <p align="center">
@@ -202,7 +213,7 @@ Albalqa Applied University
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy Wall
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15"/>
@@ -214,15 +225,15 @@ Albalqa Applied University
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oalananz&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oalananz&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oalananz&theme=tokyo-night"/>
@@ -238,6 +249,26 @@ Albalqa Applied University
 
 ---
 
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://www.oalananz.me">
+<img src="https://image.thum.io/get/width/900/https://www.oalananz.me"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 **Shadow Code Programming Competition**
+1st Place — IEEE Student Branch
+Albalqa Applied University
+
+---
+
 # 🌍 Languages
 
 🇸🇦 Arabic — Native
@@ -247,26 +278,33 @@ Albalqa Applied University
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Oalananz">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/">
+<a href="https://www.linkedin.com/in/osamah-alanananzeh-992078221/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
 
-📧 Email: [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
-🌐 Portfolio: https://www.oalananz.me
+📧 [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
+🌐 https://www.oalananz.me
 
 ---
 
 # 📄 CV
 
 [![CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge)](https://github.com/Oalananz/Oalananz/blob/main/Osamah-Alananzeh.pdf)
+
+---
+
+# 💡 Developer Philosophy
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+> — Harold Abelson
 
 ---
 
