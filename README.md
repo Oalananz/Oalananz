@@ -2,33 +2,39 @@
 <h3 align="center">Computer Engineer | Systems Programmer | 42 Student</h3>
 
 <p align="center">
-<a href="https://github.com/Oalananz">
 <img src="https://komarev.com/ghpvc/?username=Oalananz&label=Profile%20views&color=0e75b6&style=flat"/>
-</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Computer Engineering Graduate — **Albalqa Applied University**  
-💻 Software Development Student — **42 Amman**
+🎓 **Computer Engineering Graduate — Albalqa Applied University**
+💻 **Software Development Student — 42 Amman**
 
-I’m passionate about **systems programming, backend development, and problem solving**.  
-Most of my experience comes from the **42 core curriculum**, where I built projects focused on **Unix systems, concurrency, graphics, and software architecture**.
+I’m passionate about **systems programming, backend development, and problem solving**.
+
+My experience comes mainly from the **42 Core Curriculum**, where I built projects focused on:
+
+* Unix systems
+* Concurrency
+* Graphics engines
+* Software architecture
 
 🔭 Currently learning
-- ASP.NET Web API
-- Backend system design
-- Advanced C#
+
+* ASP.NET Web API
+* System design
+* Advanced C#
 
 🌱 Improving
-- Python automation
-- Distributed systems
-- Competitive programming
 
-⚡ Fun fact  
-I enjoy building tools that automate repetitive workflows and save developers hours of work.
+* Python automation
+* Distributed systems
+* Competitive programming
+
+⚡ Fun fact
+I love building small tools that automate repetitive tasks and save developers hours of work.
 
 ---
 
@@ -56,14 +62,14 @@ I enjoy building tools that automate repetitive workflows and save developers ho
 
 # ⚙️ Core Computer Science Skills
 
-✔ Data Structures & Algorithms  
-✔ Systems Programming  
-✔ Concurrency & Multithreading  
-✔ Memory Management  
-✔ Unix Processes & Signals  
-✔ Synchronization (Mutexes)  
-✔ Deadlock & Starvation Prevention  
-✔ Networking & Sockets  
+✔ Data Structures & Algorithms
+✔ Systems Programming
+✔ Concurrency & Multithreading
+✔ Memory Management
+✔ Unix Processes & Signals
+✔ Synchronization (Mutexes)
+✔ Deadlock & Starvation Prevention
+✔ Networking & Sockets
 
 ---
 
@@ -71,29 +77,29 @@ I enjoy building tools that automate repetitive workflows and save developers ho
 
 ## 🧠 Conversational Firewall Management
 
-**Tech:** FastAPI • React • vLLM • OPNsense API  
+**Tech:** FastAPI • React • vLLM • OPNsense API
 
-AI-powered firewall management chatbot that allows administrators to configure firewall rules using natural language.
+AI-powered chatbot for managing firewall rules via natural language.
 
 Features:
 
-• Natural language firewall configuration  
-• Secure REST API communication  
-• Automated firewall rule creation  
-• Reduced configuration errors  
+* Natural language firewall configuration
+* Secure REST API communication
+* Automated firewall rule creation
+* Reduced configuration errors
 
 ---
 
 ## 🐚 Minishell
 
-Unix shell implementation written in **C**.
+Unix shell implementation written in **C**
 
 Features:
 
-• Pipes (`|`)  
-• Redirections (`>`, `<`)  
-• Environment variables  
-• Process creation and management  
+* Pipes (`|`)
+* Redirections (`>`, `<`)
+* Environment variables
+* Process management
 
 Focus on **Unix behavior replication and modular architecture**.
 
@@ -101,14 +107,14 @@ Focus on **Unix behavior replication and modular architecture**.
 
 ## 🍝 Dining Philosophers
 
-Multithreaded concurrency simulation using **POSIX threads**.
+Multithreaded simulation using **POSIX threads**.
 
 Concepts implemented:
 
-• Mutex synchronization  
-• Deadlock prevention  
-• Thread-safe logging  
-• High precision timing  
+* Mutex synchronization
+* Deadlock prevention
+* Thread-safe logging
+* High precision timing
 
 ---
 
@@ -118,19 +124,64 @@ Concepts implemented:
 
 Features:
 
-• Texture rendering  
-• Real-time player movement  
-• Collision detection  
-• Map parsing  
+* Texture rendering
+* Real-time movement
+* Collision detection
+* Map parsing
 
-Inspired by the classic **Wolfenstein 3D** engine.
+Inspired by **Wolfenstein 3D**.
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/Oalananz/minishell">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=minishell&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Oalananz/cub3d">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=cub3d&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Oalananz/philosophers">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=philosophers&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Oalananz">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=Student_marks&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 42 Curriculum Roadmap
+
+✔ Libft
+✔ ft_printf
+✔ get_next_line
+✔ Born2beroot
+✔ push_swap
+✔ pipex
+✔ philosophers
+✔ minishell
+✔ cub3d
+✔ C++ Modules
+
+🎯 Currently progressing through advanced **systems & backend projects**
 
 ---
 
 # 🏆 Achievements
 
-🥇 **Shadow Code Programming Competition**  
-1st Place — IEEE Student Branch  
+🥇 **Shadow Code Programming Competition**
+1st Place — IEEE Student Branch
 Albalqa Applied University
 
 ---
@@ -151,14 +202,11 @@ Albalqa Applied University
 
 ---
 
-# 📜 Certifications
+# 🏆 GitHub Trophies
 
-✔ Foundational C# with Microsoft — freeCodeCamp + Microsoft  
-✔ C# Level 1 — ProgrammingAdvices  
-✔ OOP in C# — ProgrammingAdvices  
-✔ SQL Concepts & Practice  
-✔ SQL Projects & Practice  
-✔ C# & Database Connectivity  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
@@ -182,9 +230,17 @@ Albalqa Applied University
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Oalananz/Oalananz/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 # 🌍 Languages
 
-🇸🇦 Arabic — Native  
+🇸🇦 Arabic — Native
 🇬🇧 English — Advanced
 
 ---
@@ -203,8 +259,8 @@ Albalqa Applied University
 
 </p>
 
-📧 Email: osamahalananzeh@gmail.com  
-🌐 Portfolio: https://www.oalananz.me  
+📧 Email: [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
+🌐 Portfolio: https://www.oalananz.me
 
 ---
 
