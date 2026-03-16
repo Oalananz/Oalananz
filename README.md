@@ -21,11 +21,11 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am a motivated Computer Engineer with a strong foundation in software development, systems design, and network technologies[cite: 8]. [cite_start]I am passionate about problem-solving, continuous learning, and developing scalable, real-world applications[cite: 11].
+I am a motivated Computer Engineer with a strong foundation in software development, systems design, and network technologies. I am passionate about problem-solving, continuous learning, and developing scalable, real-world applications.
 
-- [cite_start]🎓 **Computer Engineering Graduate** — AlBalqa'a Applied University [cite: 13, 14]
-- [cite_start]💻 **Computer Science Diploma Student** — 42 Amman [cite: 15]
-- [cite_start]🛠️ I specialize in system-level programming, OOP, multithreading, and memory management[cite: 18].
+- 🎓 **Computer Engineering Graduate** — AlBalqa'a Applied University
+- 💻 **Computer Science Diploma Student** — 42 Amman
+- 🛠️ I specialize in system-level programming, OOP, multithreading, and memory management.
 - 🌱 **Currently learning:** ASP.NET Web API, Backend system design, and Advanced C#.
 - 💡 **Fun fact:** I love building small tools that save developers hours of repetitive work.
 
@@ -53,27 +53,27 @@
 ## 🚀 Featured Projects
 
 ### 🛡️ Conversational Firewall Management
-[cite_start]An AI-powered conversational interface for firewall management[cite: 49].
-- [cite_start]**Tech Stack:** FastAPI, React, vLLM, OPNsense APIs [cite: 49, 50]
-- [cite_start]**Highlights:** Interprets natural language to configure and monitor firewalls via secure REST APIs, significantly reducing human error[cite: 50].
+An AI-powered conversational interface for firewall management.
+- **Tech Stack:** FastAPI, React, vLLM, OPNsense APIs
+- **Highlights:** Interprets natural language to configure and monitor firewalls via secure REST APIs, significantly reducing human error.
 
 ### 🐚 Minishell
-[cite_start]A mini Unix shell written in C[cite: 40, 41].
-- [cite_start]**Highlights:** Supports pipes, redirections, environment variables, and process management[cite: 41]. [cite_start]Built with improved modularity and debugged using Valgrind[cite: 42].
+A mini Unix shell written in C.
+- **Highlights:** Supports pipes, redirections, environment variables, and process management. Built with improved modularity and debugged using Valgrind.
 
 ### 🍝 Dining Philosophers
-[cite_start]A multithreaded simulation in C utilizing POSIX threads[cite: 51, 52].
-- [cite_start]**Highlights:** Implemented precise time management, thread-safe logging, and strict memory handling to prevent race conditions and deadlocks[cite: 52, 53].
+A multithreaded simulation in C utilizing POSIX threads.
+- **Highlights:** Implemented precise time management, thread-safe logging, and strict memory handling to prevent race conditions and deadlocks.
 
 ### 🎮 Cub3D
-[cite_start]A 3D rendering engine built using raycasting and MiniLibX[cite: 43, 44].
-- [cite_start]**Highlights:** Features texture rendering, collision detection, and real-time player movement[cite: 44].
+A 3D rendering engine built using raycasting and MiniLibX.
+- **Highlights:** Features texture rendering, collision detection, and real-time player movement.
 
 ---
 
 ## 🏆 Achievements & Competitive Programming
 
-- [cite_start]🥇 **1st Place** — Shadow Code (Problem Solving Track), IEEE Student Branch [cite: 38]
+- 🥇 **1st Place** — Shadow Code (Problem Solving Track), IEEE Student Branch
 
 <p>
   <a href="https://codeforces.com/profile/oalananz" target="_blank">
@@ -118,7 +118,7 @@
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [oalananz.me](https://www.oalananz.me)
-- [cite_start]📧 **Email:** [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com) [cite: 4]
+- 📧 **Email:** [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
 - 💼 **LinkedIn:** [osamah-alananzeh](https://www.linkedin.com/in/osamah-alananzeh-992078221/)
 
 <br>
