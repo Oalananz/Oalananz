@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osamah Alananzeh</h1>
 <h3 align="center">Computer Engineer | Systems Programmer | 42 Student</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=Oalananz&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
@@ -123,34 +123,6 @@ Features:
 • Map parsing
 
 Inspired by **Wolfenstein 3D**.
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/Oalananz/Minishell-42">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=minishell&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Oalananz/cub3d">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=cub3d&theme=tokyonight"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Oalananz/philosophers">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=philosophers&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Oalananz/Student_marks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=Student_marks&theme=tokyonight"/>
-</a>
-
-</p>
 
 ---
 
