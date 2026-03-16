@@ -31,31 +31,6 @@ I love creating small tools that save developers hours of repetitive work.
 
 ---
 
-# 🔥 42 Curriculum Progress
-
-```
-Common Core
-├── Libft ✅
-├── ft_printf ✅
-├── get_next_line ✅
-├── Born2beroot ✅
-├── push_swap ✅
-├── pipex ✅
-├── philosophers ✅
-├── minishell ✅
-├── cub3d ✅
-└── C++ Modules 🔄
-```
-
-Focused on mastering:
-
-✔ Unix internals
-✔ Concurrency
-✔ Memory management
-✔ System architecture
-
----
-
 # 🧠 Tech Stack
 
 ### Languages
@@ -155,7 +130,7 @@ Inspired by **Wolfenstein 3D**.
 
 <p align="center">
 
-<a href="https://github.com/Oalananz/minishell">
+<a href="https://github.com/Oalananz/minishell-42">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=minishell&theme=tokyonight"/>
 </a>
 
