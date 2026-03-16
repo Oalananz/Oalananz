@@ -128,13 +128,13 @@ Inspired by **Wolfenstein 3D**.
 
 # 🧠 Competitive Programming
 
-<p align="left">
+<p align="center">
 <a href="https://codeforces.com/profile/oalananz">
 <img src="https://img.shields.io/badge/Codeforces-oalananz-orange?style=for-the-badge&logo=codeforces"/>
 </a>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=oalananz&theme=tokyonight"/>
 </p>
 
@@ -150,7 +150,7 @@ Inspired by **Wolfenstein 3D**.
 
 # 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight"/>
 
