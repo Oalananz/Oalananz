@@ -1,219 +1,183 @@
-<h1 align="center">Hi 👋, I'm Osamah Alananzeh</h1>
-<h3 align="center">Computer Engineer | Systems Programmer | 42 Student</h3>
+<h1 align="center">Hi, I'm Osamah Alananzeh</h1>
+<h3 align="center">Computer Engineer • Systems Programmer • 42 Student</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Oalananz&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Oalananz&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Oalananz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-🎓 **Computer Engineering Graduate — Albalqa Applied University**
-💻 **Software Development Student — 42 Amman**
+- 🎓 **Computer Engineering Graduate** — Albalqa Applied University  
+- 💻 **Software Development Student** — 42 Amman  
+- 🛠 I enjoy working close to the system level: **Unix tools, concurrency, backend systems, and automation**.
 
-I enjoy working close to the system level — building **Unix tools, concurrent programs, backend systems, and automation tools**.
+### Currently learning
+- ASP.NET Web API
+- Backend system design
+- Advanced C#
 
-🔭 Currently learning
+### Improving
+- Python automation
+- Distributed systems
+- Competitive programming
 
-• ASP.NET Web API
-• Backend system design
-• Advanced C#
-
-🌱 Improving
-
-• Python automation
-• Distributed systems
-• Competitive programming
-
-⚡ Fun fact
-I love creating small tools that save developers hours of repetitive work.
+**Fun fact:** I love building small tools that save developers hours of repetitive work.
 
 ---
 
-# 🧠 Tech Stack
+## Tech Stack
 
 ### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,assembly"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,assembly" alt="Languages" />
 </p>
 
 ### Systems & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake" alt="Systems and tools" />
 </p>
 
 ### Backend & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql" alt="Backend and databases" />
 </p>
 
 ---
 
-# ⚙️ Core Computer Science Skills
+## Core Computer Science Skills
 
-✔ Data Structures & Algorithms
-✔ Systems Programming
-✔ Multithreading & Concurrency
-✔ Memory Management
-✔ Unix Processes & Signals
-✔ Mutex Synchronization
-✔ Deadlock & Starvation Prevention
-✔ Networking & Sockets
+- Data Structures & Algorithms  
+- Systems Programming  
+- Multithreading & Concurrency  
+- Memory Management  
+- Unix Processes & Signals  
+- Mutex Synchronization  
+- Deadlock & Starvation Prevention  
+- Networking & Sockets  
 
 ---
 
-# 🧩 Featured Projects
+## Featured Projects
 
-### 🧠 Conversational Firewall Management
-
+### Conversational Firewall Management
 AI-powered firewall management chatbot.
 
-Tech stack:
+**Tech:** FastAPI • React • vLLM • OPNsense API  
+**Highlights:**
+- Natural language firewall configuration
+- Secure API communication
+- Automated firewall rule creation
+- Reduced human configuration errors
 
-FastAPI • React • vLLM • OPNsense API
-
-Features:
-
-• Natural language firewall configuration
-• Secure API communication
-• Automated firewall rule creation
-• Reduced human configuration errors
-
----
-
-### 🐚 Minishell
-
+### Minishell
 Unix shell written in **C** supporting:
+- Pipes, redirections, environment variables
+- Process management
+- Bash-like behavior (subset)
 
-• Pipes
-• Redirections
-• Environment variables
-• Process management
+### Dining Philosophers
+Multithreaded simulation using **POSIX threads**:
+- Mutex synchronization
+- Deadlock prevention
+- Thread-safe logging
+- Precise timing control
 
-Focus on **replicating Bash behavior**.
-
----
-
-### 🍝 Dining Philosophers
-
-Multithreaded simulation using **POSIX threads**.
-
-Implemented:
-
-• Mutex synchronization
-• Deadlock prevention
-• Thread-safe logging
-• Precise timing control
-
----
-
-### 🎮 Cub3D
-
-Raycasting **3D engine** using MiniLibX.
-
-Features:
-
-• Texture rendering
-• Collision detection
-• Real-time player movement
-• Map parsing
-
+### Cub3D
+Raycasting **3D engine** using MiniLibX:
+- Texture rendering
+- Collision detection
+- Real-time movement
+- Map parsing  
 Inspired by **Wolfenstein 3D**.
 
 ---
 
-# 🧠 Competitive Programming
+## Competitive Programming
 
-<p align="center">
-<a href="https://codeforces.com/profile/oalananz">
-<img src="https://img.shields.io/badge/Codeforces-oalananz-orange?style=for-the-badge&logo=codeforces"/>
-</a>
+<p>
+  <a href="https://codeforces.com/profile/oalananz" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-oalananz-orange?style=for-the-badge&logo=codeforces" alt="Codeforces badge" />
+  </a>
 </p>
 
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=oalananz&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophy Wall
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<p>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=oalananz&theme=tokyonight" alt="Codeforces stats card" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## GitHub Highlights
 
-<p align="center">
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight"/>
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oalananz&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oalananz&layout=compact&theme=tokyonight"/>
-
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oalananz&theme=tokyo-night" alt="Contribution graph" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## Contribution Snake
 
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oalananz&theme=tokyo-night"/>
+<p>
+  <img
+    src="https://raw.githubusercontent.com/Oalananz/Oalananz/output/github-contribution-grid-snake.svg"
+    alt="Contribution snake animation"
+  />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/Oalananz/Oalananz/output/github-contribution-grid-snake.svg"/>
-</p>
+> If the snake image doesn’t render:
+> - confirm the workflow pushes to the `output` branch
+> - or change `output/` to `main/` depending on your workflow output
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
-🥇 **Shadow Code Programming Competition**
-1st Place — IEEE Student Branch
-Albalqa Applied University
-
----
-
-# 🌍 Languages
-
-🇸🇦 Arabic — Native
-🇬🇧 English — Advanced
+- 🥇 **Shadow Code Programming Competition** — 1st Place  
+  IEEE Student Branch, Albalqa Applied University
 
 ---
 
-# 📫 Connect With Me
+## Languages
 
-<p align="left">
-
-<a href="https://github.com/Oalananz">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
-📧 [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)
-🌐 https://www.oalananz.me
+- Arabic — Native
+- English — Advanced
 
 ---
 
-# 📄 CV
+## Contact
 
-[![CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge)](https://github.com/Oalananz/Oalananz/blob/main/Osamah-Alananzeh.pdf)
+- Email: [osamahalananzeh@gmail.com](mailto:osamahalananzeh@gmail.com)  
+- Website: [oalananz.me](https://www.oalananz.me)  
+- LinkedIn: <a href="https://www.linkedin.com/in/osamah-alananzeh-992078221/" target="_blank">osamah-alananzeh</a>
 
 ---
 
-⭐ *Continuous learning is the minimum requirement for success in any field.*
+## CV
+
+[View my CV](https://github.com/Oalananz/Oalananz/blob/main/Osamah-Alananzeh.pdf)
+
+---
+
+> **Continuous learning is the minimum requirement for success in any field.**
