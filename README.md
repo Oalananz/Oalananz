@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osamah Alananzeh</h1>
 <h3 align="center">Computer Engineer | Systems Programmer | 42 Student</h3>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Oalananz&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
@@ -35,19 +35,19 @@ I love creating small tools that save developers hours of repetitive work.
 
 ### Languages
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,ts,assembly"/>
 </p>
 
 ### Systems & Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake"/>
 </p>
 
 ### Backend & Databases
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mysql"/>
 </p>
 
@@ -128,13 +128,13 @@ Inspired by **Wolfenstein 3D**.
 
 # 🧠 Competitive Programming
 
-<p align="center">
+<p align="left">
 <a href="https://codeforces.com/profile/oalananz">
 <img src="https://img.shields.io/badge/Codeforces-oalananz-orange?style=for-the-badge&logo=codeforces"/>
 </a>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=oalananz&theme=tokyonight"/>
 </p>
 
@@ -142,7 +142,7 @@ Inspired by **Wolfenstein 3D**.
 
 # 🏆 GitHub Trophy Wall
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=Oalananz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
@@ -150,7 +150,7 @@ Inspired by **Wolfenstein 3D**.
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oalananz&show_icons=true&theme=tokyonight"/>
 
@@ -162,7 +162,7 @@ Inspired by **Wolfenstein 3D**.
 
 # 📈 Contribution Activity
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oalananz&theme=tokyo-night"/>
 </p>
 
@@ -170,7 +170,7 @@ Inspired by **Wolfenstein 3D**.
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/Oalananz/Oalananz/output/github-contribution-grid-snake.svg"/>
 </p>
 
@@ -193,7 +193,7 @@ Albalqa Applied University
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Oalananz">
 <img src="https://skillicons.dev/icons?i=github"/>
