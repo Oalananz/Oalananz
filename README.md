@@ -130,7 +130,7 @@ Inspired by **Wolfenstein 3D**.
 
 <p align="center">
 
-<a href="https://github.com/Oalananz/minishell-42">
+<a href="https://github.com/Oalananz/Minishell-42">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oalananz&repo=minishell&theme=tokyonight"/>
 </a>
 
