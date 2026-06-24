@@ -41,7 +41,7 @@
 | Project | Stack | |
 |---|---|---|
 | **StudyHub** — full-stack study platform | Next.js · ASP.NET Core · PostgreSQL | [Live](https://studyhub-web-734a.onrender.com) |
-| **HabitTerminal** — habit tracker with a custom recovery engine | Next.js · Node.js · Prisma · JWT | Repo |
+| **HabitTerminal** — habit tracker with a custom recovery engine | Next.js · Node.js · Prisma · JWT |  [Repo](https://github.com/Oalananz/HabitTracker) |
 | **Conversational Firewall** — AI firewall dashboard | React · TypeScript · vLLM | [Repo](https://github.com/Oalananz/Grad_project) |
 | **WebServ** — HTTP/1.1 server from scratch | C++98 · POSIX Sockets | [Repo](https://github.com/Qhatahet/WebServ) |
 
